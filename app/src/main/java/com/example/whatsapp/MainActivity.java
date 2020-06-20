@@ -244,4 +244,8 @@ public class MainActivity extends AppCompatActivity {
                 .updateChildren(onlineStateMap);
 
     }
+
+    public String returnName(){
+        return "This is just to test Github push";
+    }
 }
